@@ -13,8 +13,8 @@
 <p align="center"> $\small\color{#8FBC8B}{\textsf{dni radqueers, transIDs...}}$<br/>
 <p align="center"> $\tiny\color{#8FBC8B}{\textsf{ i could be considered a yume.}}$<br/>
 <p align="center"> $\tiny\color{#006A4E}{\textsf{"I have had it with [mankind]... They clip, They prune."}}$
-<p align="center"> $\tiny\color{#006A4E}{\textsf{"They make us remake ourselves into what they want."}}$
-<p align="center"> $\tiny\color{#006A4E}{\textsf{"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
+<p align="center"> $\tiny\color{#006A4E}{\textsf{&emsp;"They make us remake ourselves into what they want."}}$
+<p align="center"> $\tiny\color{#006A4E}{\textsf{&emsp;&emsp;"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
   <p align="left"> $\large\color{#008200}{\textsf{\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
         <br>
       </th>
