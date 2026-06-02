@@ -12,7 +12,7 @@
 <p align="left"> $\normalsize\color{#f9f6ee}{\textsf{\qquad i'm smaller...}}$<br/>
 <p align="left"> $\small\color{#f9f6ee}{\textsf{\qquad\qquad\qquad\qquad nicer...}}$<br/>
 <p align="left"> $\tiny\color{#f9f6ee}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad.. and sensitive so be nice!!!}}$<br/>
-<p align="center"> $\tiny\color{#f9f6ee}{\textsf{you can find this weird but that's okay. i am enacting free will!}}$ 
+<p align="center"> $\tiny\color{#f9f6ee}{\textsf{"aaaaaaaaaaaaaa}}$ 
   <img src="https://64.media.tumblr.com/38ffeb52bc4331f917f3702a63f56cb1/tumblr_inline_mq1rpgbE5f1qz4rgp.gif" align="left" width="30"><br/>
   <p align="left"> $\large\color{#f9f6ee}{\textsf{\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
           <br><br>
@@ -32,20 +32,20 @@ ekk
 <img src="https://64.media.tumblr.com/410b15d93f809504425798ca85e8a204/b355d9cf58ad2948-0c/s500x750/4c7f70073559225a2f5ae7fb33b163be6a78fd30.pnj" align="left" width="200"><br/>
 
 
-<img src="https://64.media.tumblr.com/6c1d6b3990b210ec6d71348520aee4dc/02bac082e5803faf-3e/s250x400/36f936133f8e6fd9ed3cf3586dfda025aed8d561.pnj" align="center" width="300"><br/>
+<img src="https://64.media.tumblr.com/6c1d6b3990b210ec6d71348520aee4dc/02bac082e5803faf-3e/s250x400/36f936133f8e6fd9ed3cf3586dfda025aed8d561.pnj" align="center" width="500"><br/>
 <table width="300">
   <tbody>
     <tr>
       <td>
         <div align="left">
           <br>
-          <p align="center"> $\normalsize\color{#f9f6ee}{\textsf{hi! normally i'm bear but here i'm cub!!}}$
-<p align="left"> $\normalsize\color{#f9f6ee}{\textsf{\qquad i'm smaller...}}$<br/>
-<p align="left"> $\small\color{#f9f6ee}{\textsf{\qquad\qquad\qquad\qquad nicer...}}$<br/>
-<p align="left"> $\tiny\color{#f9f6ee}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad.. and sensitive so be nice!!!}}$<br/>
-<p align="center"> $\tiny\color{#f9f6ee}{\textsf{you can find this weird but that's okay. i am enacting free will!}}$ 
-  <img src="https://64.media.tumblr.com/38ffeb52bc4331f917f3702a63f56cb1/tumblr_inline_mq1rpgbE5f1qz4rgp.gif" align="left" width="30"><br/>
-  <p align="left"> $\large\color{#f9f6ee}{\textsf{\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
+          <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{hi, i'm bear. she/he. certified lesbian.}}$
+<p align="left"> $\normalsize\color{#8FBC8B}{\textsf{\qquad\qquad my stances are anti-harassment and anti-contact.}}$<br/>
+<p align="right"> $\small\color{#8FBC8B}{\textsf{dni radqueers, transIDs...\qquad\qquad}}$<br/>
+<p align="left"> $\tiny\color{#8FBC8B}{\textsf{\qquad\qquad\qquad\qquad\qquad i could be considered a yume.}}$<br/>
+<p align="center"> $\tiny\color{#006A4E}{\textsf{"I have had it with [mankind]... They clip, They prune, They make us remake ourselves into what they want."}}$
+<p align="center"> $\tiny\color{#006A4E}{\textsf{"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
+  <p align="left"> $\large\color{#008200}{\textsf{\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
           <br><br>
         </div>
       </td>
@@ -54,6 +54,8 @@ ekk
 </table>
 
 <br clear="left" />
+
+  <img src="https://64.media.tumblr.com/38ffeb52bc4331f917f3702a63f56cb1/tumblr_inline_mq1rpgbE5f1qz4rgp.gif" align="left" width="30"><br/>
 
 
 
