@@ -19,7 +19,6 @@
   <p align="left"> $\tiny\color{#008200}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$<br/>
   <p align="left"> $\large\color{#008200}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$<br/>
 
-  <br>
   </th>
   </table>
 
