@@ -42,9 +42,9 @@
     <tr align="center"></tr>
       <th>
            <br>  
-      <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="left" alt="LASTFM"></a><br/>
+      <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="center" alt="LASTFM"></a><br/>
 
-<img src="https://64.media.tumblr.com/acccdeebca3182cb3effeab5c567ff2d/41c35926ea923fb3-37/s2048x3072/cb34b5d407d3402254f9fff43030bcdb3d10f925.pnj" height="100" width="400">
+<img src="https://64.media.tumblr.com/acccdeebca3182cb3effeab5c567ff2d/41c35926ea923fb3-37/s2048x3072/cb34b5d407d3402254f9fff43030bcdb3d10f925.pnj" height="100" width="370">
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=merko&bgcolor=%23679267&qColor=%23679267&aColor=%23679267" align="center" alt="Jokes Card" />
 
