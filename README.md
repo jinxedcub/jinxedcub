@@ -15,7 +15,9 @@
 <p align="left"> $\tiny\color{#006A4E}{\textsf{"I have had it with mankind... They clip, They prune."}}$
 <p align="left"> $\tiny\color{#006A4E}{\textsf{\qquad\qquad\qquad\qquad"They make us remake ourselves into what they want."}}$
 <p align="left"> $\tiny\color{#006A4E}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
-  <p align="left"> $\large\color{#008200}{\textsf{\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
+<p align="left"> $\tiny\color{#008200}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
+  <p align="left"> $\tiny\color{#008200}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$
+  <p align="left"> $\large\color{#008200}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
         <br>
       </th>
   </table>
