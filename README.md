@@ -31,37 +31,23 @@ ekk<br/>
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img width="660" height="291" alt="harlivygraphic" src="https://github.com/user-attachments/assets/08e03b27-c151-46e5-8dc4-686663890cfd" />
 
-<img src="https://64.media.tumblr.com/ef3ae3f7714ebf4e8fdc5fdf69cc9978/8ef2f4d65b624802-d7/s100x200/1d5b2c51e9e59f3b766a86b45edfd033f0943b50.pnj" align="right" width="100"><br/>
+<img src="https://64.media.tumblr.com/ef3ae3f7714ebf4e8fdc5fdf69cc9978/8ef2f4d65b624802-d7/s100x200/1d5b2c51e9e59f3b766a86b45edfd033f0943b50.pnj" width="100" align="right" style="margin-left: 10px;">
+<img src="https://64.media.tumblr.com/d2176fdd65ed8a2e1f2e66da29933cf3/8ef2f4d65b624802-3c/s100x200/1bf04f6264efa3ff3d59d066886ec315154a9ef0.pnj" width="100" align="right" style="margin-left: 15px;">
+<img src="https://64.media.tumblr.com/99980cdad84fae142f841998a5782b4c/8ef2f4d65b624802-16/s100x200/d074501fccbfe3e8198648d67cf26b958e1054fb.pnj" width="100" align="right" style="margin-left: 15px;">
 
-<img src="https://64.media.tumblr.com/6c1d6b3990b210ec6d71348520aee4dc/02bac082e5803faf-3e/s250x400/36f936133f8e6fd9ed3cf3586dfda025aed8d561.pnj" align="center" width="480"><br/>
-<table width="300">
-  <tbody>
-    <tr>
-      <td>
-        <div align="left">
-          <br>
-          <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{hi, i'm bear. she/he. certified lesbian.}}$
+
+<table>
+  <tr>
+    <td>
+      <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{hi, i'm bear. she/he. certified lesbian.}}$
 <p align="left"> $\normalsize\color{#8FBC8B}{\textsf{\qquad\qquad my stances are anti-harassment and anti-contact.}}$<br/>
 <p align="right"> $\small\color{#8FBC8B}{\textsf{dni radqueers, transIDs...\qquad\qquad}}$<br/>
 <p align="left"> $\tiny\color{#8FBC8B}{\textsf{\qquad\qquad\qquad\qquad\qquad i could be considered a yume.}}$<br/>
 <p align="center"> $\tiny\color{#006A4E}{\textsf{"I have had it with [mankind]... They clip, They prune, They make us remake ourselves into what they want."}}$
 <p align="center"> $\tiny\color{#006A4E}{\textsf{"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
   <p align="left"> $\large\color{#008200}{\textsf{\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
-          <br><br>
-        </div>
-      </td>
-    </tr>
-  </tbody>
+    </td>
+  </tr>
 </table>
 
-<br clear="left" />
-
-  <img src="https://64.media.tumblr.com/38ffeb52bc4331f917f3702a63f56cb1/tumblr_inline_mq1rpgbE5f1qz4rgp.gif" align="left" width="30"><br/>
-
-
-
-
-
-
-
-
+<br clear="right"/>
