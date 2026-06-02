@@ -29,11 +29,11 @@
 
   <br>  
       <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=25&duration=3000&pause=400&color=8FBC8B&center=true&multiline=true&repeat=false&width=350&height=150&lines=Pouring+out+her+chest%2C;her+sweet+flowers+lay+wilted.;She+feels+their+petals+sink+between+her+fingers%2C;leaving+nothing+but+dried+carbon." alt="embers by dead butterflies" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=25&duration=3000&pause=400&color=8FBC8B&center=true&multiline=true&repeat=false&width=350&height=145&lines=Pouring+out+her+chest%2C;her+sweet+flowers+lay+wilted.;She+feels+their+petals+sink+between+her+fingers%2C;leaving+nothing+but+dried+carbon." alt="embers by dead butterflies" /></a>
 <br>
   <br>
 
-<img src="https://komarev.com/ghpvc/?username=vexuliii&color=8FBC8B&style=for-the-badge&label=Flowers+Bloomed:" title="kill Huey kill Huey kill Huey kill Huey kill">
+<img src="https://komarev.com/ghpvc/?username=jinxecub&color=8FBC8B&style=for-the-badge&label=Flowers+Bloomed:" title="kill Huey kill Huey kill Huey kill Huey kill">
 
  <br>
  <br>
