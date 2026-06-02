@@ -27,12 +27,11 @@
 
 eek
 ek
-ekk
+ekk<br/>
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img width="660" height="291" alt="harlivygraphic" src="https://github.com/user-attachments/assets/08e03b27-c151-46e5-8dc4-686663890cfd" />
 
-<img src="https://64.media.tumblr.com/410b15d93f809504425798ca85e8a204/b355d9cf58ad2948-0c/s500x750/4c7f70073559225a2f5ae7fb33b163be6a78fd30.pnj" align="left" width="230"><br/>
-
+<img src="https://64.media.tumblr.com/ef3ae3f7714ebf4e8fdc5fdf69cc9978/8ef2f4d65b624802-d7/s100x200/1d5b2c51e9e59f3b766a86b45edfd033f0943b50.pnj" align="right" width="100"><br/>
 
 <img src="https://64.media.tumblr.com/6c1d6b3990b210ec6d71348520aee4dc/02bac082e5803faf-3e/s250x400/36f936133f8e6fd9ed3cf3586dfda025aed8d561.pnj" align="center" width="480"><br/>
 <table width="300">
