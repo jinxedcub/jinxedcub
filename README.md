@@ -41,3 +41,6 @@
  <img src="https://64.media.tumblr.com/cd53ac3e3ce8fcdcc1d4e3455680c0e0/17e56c69ffb64f87-18/s2048x3072/b05c4a486a27873938da929eaf7af4e8be387296.pnj">
  <br>
           <br>
+
+
+<a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=2&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="left" alt="LASTFM"></a>
