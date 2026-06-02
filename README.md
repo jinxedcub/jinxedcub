@@ -62,10 +62,10 @@
 <img width="300" height="170" alt="ivy in the rain" src="https://github.com/user-attachments/assets/0237cfdf-efb2-45ce-b72f-ac518c445f0b" title="all i need is perfection." />
 
   <br>  
-<img width="200" height="25" src="https://64.media.tumblr.com/7ccffd024669d139f1d920b389672384/69c91a2a7c2dd12a-f0/s250x400/e3a6d94a6ab9892d35487f0bc3739014bf23a07a.gifv">
-<img width="200" height="25" src="https://64.media.tumblr.com/9a45fcf407de88d8b13d0b10ecf19942/6395a248c41d3673-29/s250x400/46615a3456e5acd1a7a45ef2b3919777185d6757.gifv">
-<img width="200" height="25" src="https://64.media.tumblr.com/70ee062c890647de234488bf5ed4f6a3/16d7101d29a54c46-88/s250x400/a33282e54ea8bbf8c97b938ff6b16d731272184b.gifv">
-<img width="200" height="25" src="https://64.media.tumblr.com/400cf204bccb85be6649c42a86d0300b/8c08b1a07cb5f427-4d/s250x400/5fc6720b8715d3e3490461237137af04f13bbacf.gifv">
+<img width="150" height="25" src="https://64.media.tumblr.com/7ccffd024669d139f1d920b389672384/69c91a2a7c2dd12a-f0/s250x400/e3a6d94a6ab9892d35487f0bc3739014bf23a07a.gifv">
+<img width="150" height="25" src="https://64.media.tumblr.com/9a45fcf407de88d8b13d0b10ecf19942/6395a248c41d3673-29/s250x400/46615a3456e5acd1a7a45ef2b3919777185d6757.gifv">
+<img width="150" height="25" src="https://64.media.tumblr.com/70ee062c890647de234488bf5ed4f6a3/16d7101d29a54c46-88/s250x400/a33282e54ea8bbf8c97b938ff6b16d731272184b.gifv">
+<img width="150" height="25" src="https://64.media.tumblr.com/400cf204bccb85be6649c42a86d0300b/8c08b1a07cb5f427-4d/s250x400/5fc6720b8715d3e3490461237137af04f13bbacf.gifv">
 
   <br>  
       <br>
