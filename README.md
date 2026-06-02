@@ -59,7 +59,7 @@
     <img align="left" src="https://64.media.tumblr.com/e9bec28557565d011fbeb52d4a749e17/b4963413b3d05ae7-9f/s100x200/e85cd5b4a6fa38f9f20de1d99c00e614eb1f6eaa.pnj" width="100">
 
   <br>  
-<img width="460" height="222" alt="ivy in the rain" src="https://github.com/user-attachments/assets/0237cfdf-efb2-45ce-b72f-ac518c445f0b" title="all i need is perfection." />
+<img width="390" height="200" alt="ivy in the rain" src="https://github.com/user-attachments/assets/0237cfdf-efb2-45ce-b72f-ac518c445f0b" title="all i need is perfection." />
   <br>  
       <br>
       
