@@ -43,4 +43,17 @@
           <br>
 
 
-<a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=2&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="left" alt="LASTFM"></a>
+
+      
+  <table border="0" align="right">
+    <tr align="center"></tr>
+      <th>
+           <br>  
+      <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="left" alt="LASTFM"></a><br/>
+
+ <br><br><br>
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=merko&bgcolor=%23679267&qColor=%23679267&aColor=%23679267" align="center" alt="Jokes Card" />
+
+  </th>
+  </table>
