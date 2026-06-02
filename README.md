@@ -46,7 +46,9 @@
 
 <img src="https://64.media.tumblr.com/acccdeebca3182cb3effeab5c567ff2d/41c35926ea923fb3-37/s2048x3072/cb34b5d407d3402254f9fff43030bcdb3d10f925.pnj" height="100" width="350">
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=merko&bgcolor=%23679267&qColor=%23679267&aColor=%23679267" align="center" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=merko&bgcolor=%23679267&qColor=%23679267&aColor=%23679267" align="center" alt="Jokes Card" /><br/>
+
+<img src="https://64.media.tumblr.com/149a0d566cd2a51afc884b9f6759ecc5/475a0bc73769d50d-9a/s2048x3072/c0b48316cfd68c2de9f2b42989e31d01ad6f9a9e.pnj" height="80" width="400">
 
   </th>
   </table>
