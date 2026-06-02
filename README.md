@@ -33,7 +33,7 @@
 <br>
   <br>
 
-<img src="https://komarev.com/ghpvc/?username=jinxecub&color=8FBC8B&style=for-the-badge&label=Flowers+Bloomed:" title="kill Huey kill Huey kill Huey kill Huey kill">
+<img src="https://komarev.com/ghpvc/?username=jinxecub&color=8FBC8B&style=for-the-badge&label=Flowers+Bloomed:" title="let mother nature care for you...">
 
  <br>
  <br>
