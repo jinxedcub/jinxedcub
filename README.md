@@ -29,7 +29,7 @@ eek
 ek
 ekk<br/>
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img width="660" height="291" alt="harlivygraphic" src="https://github.com/user-attachments/assets/08e03b27-c151-46e5-8dc4-686663890cfd" />
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img width="660" height="291" alt="my babies" src="https://github.com/user-attachments/assets/08e03b27-c151-46e5-8dc4-686663890cfd" />
 
 
 <div align="right" style="float: right; width: 450px; margin-left: 15px;">
@@ -40,7 +40,7 @@ ekk<br/>
   <br><br>
   
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=25&duration=3000&pause=400&color=8FBC8B&center=true&multiline=true&width=240&height=150&lines=I+want+your+things+in+my+room%2C;I+miss+you+all+of+the+time.;You+make+it+look+so+easy%2C;leaving+everything+behind." alt="Typing SVG" align="right" style="margin-left: 15px; margin-top: 10px;"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=25&duration=3000&pause=400&color=8FBC8B&center=true&multiline=true&width=240&height=150&lines=I+want+your+things+in+my+room%2C;I+miss+you+all+of+the+time.;You+make+it+look+so+easy%2C;leaving+everything+behind." alt="i like this song.." align="right" style="margin-left: 15px; margin-top: 10px;"/></a>
   </a>
 </div>
 
