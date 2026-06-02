@@ -18,6 +18,7 @@
 <p align="left"> $\tiny\color{#008200}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
   <p align="left"> $\tiny\color{#008200}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$
   <p align="left"> $\large\color{#008200}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=15&duration=3000&pause=400&color=8FBC8B&center=false&multiline=true&repeat=false&width=200&lines=if+i+can't+have+it+all..." alt="Typing SVG" /></a>
         <br>
       </th>
   </table>
