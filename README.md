@@ -52,7 +52,7 @@
            <br>  
       <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="center" alt="last listened to"></a><br/>
 <br>  
-<img src="https://64.media.tumblr.com/acccdeebca3182cb3effeab5c567ff2d/41c35926ea923fb3-37/s2048x3072/cb34b5d407d3402254f9fff43030bcdb3d10f925.pnj" height="100" width="450"><br/>
+<img src="https://64.media.tumblr.com/3edc656826f91f2139a78484c13d43bc/17e56c69ffb64f87-49/s2048x3072/122fa18f922b144df60712d26d04d0d187fa3c3a.pnj" height="50" width="450"><br/>
 <br>  
 <img src="https://readme-jokes.vercel.app/api?theme=merko&bgcolor=%23679267&qColor=%2318453B&aColor=%23679267&borderColor=%23043927" align="center" alt="Jokes Card" />
   </th>
