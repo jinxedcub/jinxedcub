@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="660" height="291" src="https://github.com/user-attachments/assets/08e03b27-c151-46e5-8dc4-686663890cfd"/>
+<img width="660" height="291" src="https://github.com/user-attachments/assets/08e03b27-c151-46e5-8dc4-686663890cfd" alt="harlivy" title="together forever?"/>
 
 
   <table border="0" align="left">
@@ -29,7 +29,7 @@
 
   <br>  
       <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=25&duration=3000&pause=400&color=8FBC8B&center=true&multiline=true&repeat=false&width=350&height=140&lines=Pouring+out+her+chest%2C;her+sweet+flowers+lay+wilted.;She+feels+their+petals+sink+between+her+fingers%2C;leaving+nothing+but+dried+carbon." alt="embers by dead butterflies" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=25&duration=3000&pause=400&color=8FBC8B&center=true&multiline=true&repeat=false&width=350&height=140&lines=Pouring+out+her+chest%2C;her+sweet+flowers+lay+wilted.;She+feels+their+petals+sink+between+her+fingers%2C;leaving+nothing+but+dried+carbon." alt="embers by dead butterflies" title="embers by dead butterflies" /></a>
 <br>
   <br>
 
@@ -50,7 +50,7 @@
     <tr align="center"></tr>
       <th>
            <br>  
-      <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="center" alt="LASTFM"></a><br/>
+      <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=1B4D3E" align="center" alt="last listened to"></a><br/>
 <br>  
 <img src="https://64.media.tumblr.com/acccdeebca3182cb3effeab5c567ff2d/41c35926ea923fb3-37/s2048x3072/cb34b5d407d3402254f9fff43030bcdb3d10f925.pnj" height="100" width="450"><br/>
 <br>  
@@ -59,11 +59,10 @@
   </table>
 
 
- <img src="https://64.media.tumblr.com/cd53ac3e3ce8fcdcc1d4e3455680c0e0/17e56c69ffb64f87-18/s2048x3072/b05c4a486a27873938da929eaf7af4e8be387296.pnj">
+<img width="860" height="422" alt="ivy in the rain" src="https://github.com/user-attachments/assets/0237cfdf-efb2-45ce-b72f-ac518c445f0b" title="all i need is perfection." />
+
  <br>
           <br>
-
-
 
       
   
