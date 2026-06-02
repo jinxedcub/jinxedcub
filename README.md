@@ -40,11 +40,6 @@
 
 
 
-<div align="center">
-   <br>  
-  <img align="left" src="https://64.media.tumblr.com/510ad30947adb332e63a24dbf4ef96c7/8ef2f4d65b624802-08/s100x200/3ae5b6b7144daac705fc9506454a64e17005a01e.pnj" width="100">
-  <img align="left" src="https://64.media.tumblr.com/d2176fdd65ed8a2e1f2e66da29933cf3/8ef2f4d65b624802-3c/s100x200/1bf04f6264efa3ff3d59d066886ec315154a9ef0.pnj" width="100">
-    <img align="left" src="https://64.media.tumblr.com/e9bec28557565d011fbeb52d4a749e17/b4963413b3d05ae7-9f/s100x200/e85cd5b4a6fa38f9f20de1d99c00e614eb1f6eaa.pnj" width="100">
  
  <table border="0" align="right">
     <tr align="center"></tr>
@@ -57,6 +52,11 @@
 <img src="https://readme-jokes.vercel.app/api?theme=merko&bgcolor=%23679267&qColor=%2318453B&aColor=%23679267&borderColor=%23043927" align="center" alt="Jokes Card" />
   </th>
   </table>
+
+  <br>
+  <img align="left" src="https://64.media.tumblr.com/510ad30947adb332e63a24dbf4ef96c7/8ef2f4d65b624802-08/s100x200/3ae5b6b7144daac705fc9506454a64e17005a01e.pnj" width="100">
+  <img align="left" src="https://64.media.tumblr.com/d2176fdd65ed8a2e1f2e66da29933cf3/8ef2f4d65b624802-3c/s100x200/1bf04f6264efa3ff3d59d066886ec315154a9ef0.pnj" width="100">
+    <img align="left" src="https://64.media.tumblr.com/e9bec28557565d011fbeb52d4a749e17/b4963413b3d05ae7-9f/s100x200/e85cd5b4a6fa38f9f20de1d99c00e614eb1f6eaa.pnj" width="100">
 
 
 <img width="860" height="422" alt="ivy in the rain" src="https://github.com/user-attachments/assets/0237cfdf-efb2-45ce-b72f-ac518c445f0b" title="all i need is perfection." />
