@@ -32,7 +32,7 @@ ekk
 <img src="https://64.media.tumblr.com/410b15d93f809504425798ca85e8a204/b355d9cf58ad2948-0c/s500x750/4c7f70073559225a2f5ae7fb33b163be6a78fd30.pnj" align="left" width="200"><br/>
 
 
-<img src="https://64.media.tumblr.com/6c1d6b3990b210ec6d71348520aee4dc/02bac082e5803faf-3e/s250x400/36f936133f8e6fd9ed3cf3586dfda025aed8d561.pnj" align="center" width="350"><br/>
+<img src="https://64.media.tumblr.com/6c1d6b3990b210ec6d71348520aee4dc/02bac082e5803faf-3e/s250x400/36f936133f8e6fd9ed3cf3586dfda025aed8d561.pnj" align="center" width="330"><br/>
 <table width="300">
   <tbody>
     <tr>
