@@ -70,6 +70,8 @@
 <img width="150" height="20" src="https://64.media.tumblr.com/02d78d3b38b4b18b279302761b0a9b71/4d73282282112336-72/s250x400/8c7f1957f992bb29f164d1ed751d3308842c2720.gifv">
 <img width="150" height="20" src="https://64.media.tumblr.com/a5b7bda272de89b492c84f9560847322/61a2c6b35c7c29dc-9f/s500x750/8a3382b1104570c5a3d0ec753ac6b19ba8a02334.webp">
 <img width="150" height="20" src="https://64.media.tumblr.com/82ff05158b2d87a7f7cfe5e9cff62e17/d1286c3d0213091f-8f/s540x810/71e5b81b1993454d74f76083c0df98cd38b020b0.gifv">
+<img width="150" height="20" src="https://myblinkie.dazzlejunction.net/create/_img.php?f=7d7f77f64fb29467b0185fbf531ee7f8.gif&e=1780431725&s=96f9ddcbf745121197e63c82af4b452048f60b3590b9fc20d5a7f6be6df0111c">
+<img width="150" height="20" src="https://64.media.tumblr.com/21615996cdd97fd06eb64fd4cd36b84a/8c08b1a07cb5f427-73/s250x400/68fd33f39bcf84196fbf41d3848865b83022f317.gifv">
 
   <br>  
       <br>
