@@ -82,5 +82,21 @@
  <br>
           <br>
 
-      
-  
+<img src="https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true" alt="My scrobbles" align="left" />
+
+   <table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+     <br>  
+        
+  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+    <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+      <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+        <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+          <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+            <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+                        <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+                                    <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
+
+  </th>
+  </table>
