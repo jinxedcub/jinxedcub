@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img width="660" height="291" src="https://github.com/user-attachments/assets/08e03b27-c151-46e5-8dc4-686663890cfd" alt="harlivy" title="together forever?"/>
+<img width="640" height="320" alt="drawing of zoey done by me" src="https://github.com/user-attachments/assets/0a6db861-0e06-47d8-8afa-71e3eac14c38" />
+
 
 
   <table border="0" align="left">
@@ -81,22 +82,3 @@
       
  <br>
           <br>
-
-<img src="https://lastfm-recently-played.vercel.app/api?user=Perishall&bg_color=5bd3de&loved=true" alt="My scrobbles" align="left" />
-
-   <table border="0" align="left">
-    <tr align="center"></tr>
-      <th>
-     <br>  
-        
-  <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-    <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-      <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-        <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-          <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-            <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-                        <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-                                    <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{meowmeowmeowmeowmeowmeowmeowmeowmeow}}$
-
-  </th>
-  </table>
