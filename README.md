@@ -31,7 +31,7 @@
 
   <br>  
       <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=22&duration=3000&pause=400&center=true&multiline=true&repeat=false&width=350&height=120&lines=Don't+get+any+big+ideas%2C;they're+not+gonna+happen.;%F0%92%85%8C+%E3%84%A8%E2%9C%98%E2%9C%97%EF%BE%92%E2%9C%97%E2%80%A2.%E1%90%9F" alt="Typing SVG" title="nude by radiohead" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=22&duration=3000&pause=400&color=5B83E3&center=true&multiline=true&repeat=false&width=350&height=120&lines=Don't+get+any+big+ideas%2C;they're+not+gonna+happen.;%F0%92%85%8C+%E3%84%A8%E2%9C%98%E2%9C%97%EF%BE%92%E2%9C%97%E2%80%A2.%E1%90%9F" alt="Typing SVG" title="nude by radiohead" /></a>
 <br>
   <br>
 
@@ -47,11 +47,11 @@
     <tr align="center"></tr>
       <th>
            <br>  
-      <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=5B83E3" align="center" alt="last listened to"></a><br/>
+      <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=5b83e3" align="center" alt="last listened to"></a><br/>
 <br>  
 <img src="https://64.media.tumblr.com/59a1685fefa418742e122e7151e1f8be/6c010a2225957f8c-a9/s400x600/aaee522904e2ba44f863371c924a11dc51aa319d.gifv" height="50" width="450"><br/>
 <br>  
-<img src="https://readme-jokes.vercel.app/api?theme=bgcolor=%235a71b4&qColor=%2321bfff&aColor=%23ff03fe&borderColor=%23fd02fd" align="center" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=solidBlue&bgcolor=%235a71b4&qColor=%2321bfff&aColor=%23ff03fe&borderColor=%23fd02fd" align="center" alt="Jokes Card" />
   </th>
   </table>
 
