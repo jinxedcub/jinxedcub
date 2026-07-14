@@ -31,7 +31,7 @@
 
   <br>  
       <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=22&duration=3000&pause=400&color=5B83E3&center=true&multiline=true&repeat=false&width=350&height=120&lines=Don't+get+any+big+ideas%2C;they're+not+gonna+happen." alt="Typing SVG" title="nude by radiohead" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=22&duration=3000&pause=400&center=true&multiline=true&repeat=false&width=350&height=120&lines=Don't+get+any+big+ideas%2C;they're+not+gonna+happen.;%F0%92%85%8C+%E3%84%A8%E2%9C%98%E2%9C%97%EF%BE%92%E2%9C%97%E2%80%A2.%E1%90%9F" alt="Typing SVG" title="nude by radiohead" /></a>
 <br>
   <br>
 
