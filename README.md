@@ -10,16 +10,16 @@
     <tr align="center"></tr>
       <th>
            <br>  
-      <p align="center"> $\normalsize\color{#8FBC8B}{\textsf{hi, i'm bear. she/he. certified lesbian.\qquad\qquad\qquad}}$
-<p align="center"> $\normalsize\color{#8FBC8B}{\textsf{my stances are anti-harassment and anti-contact.\qquad\qquad}}$<br/>
-<p align="center"> $\small\color{#8FBC8B}{\textsf{dni radqueers, transIDs...}}$<br/>
-<p align="left"> $\tiny\color{#7ca379}{\textsf{\qquad\qquad\qquad\qquad\qquad i could be considered a yume. < harley, ivy, jinx 3}}$<br/>
-<p align="left"> $\tiny\color{#7ca379}{\textsf{"I have had it with mankind... They clip, They prune."}}$
-<p align="left"> $\tiny\color{#7ca379}{\textsf{\qquad\qquad\qquad\qquad"They make us remake ourselves into what they want."}}$
-<p align="left"> $\tiny\color{#688a65}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
-<p align="left"> $\tiny\color{#688a65}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
-  <p align="left"> $\tiny\color{#688a65}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$<br/>
-  <p align="left"> $\large\color{#506b4d}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$<br/>
+      <p align="center"> $\normalsize\color{#3eb9f2}{\textsf{hi, i'm bear. she/he. certified lesbian.\qquad\qquad\qquad}}$
+<p align="center"> $\normalsize\color{#3eb9f2}{\textsf{my stances are anti-harassment and anti-contact.\qquad\qquad}}$<br/>
+<p align="center"> $\small\color{#3eb9f2}{\textsf{dni radqueers, transIDs...}}$<br/>
+<p align="left"> $\tiny\color{#369de0}{\textsf{\qquad\qquad\qquad\qquad\qquad i could be considered a yume. < harley, ivy, jinx 3}}$<br/>
+<p align="left"> $\tiny\color{#369de0}{\textsf{"I have had it with mankind... They clip, They prune."}}$
+<p align="left"> $\tiny\color{#369de0}{\textsf{\qquad\qquad\qquad\qquad"They make us remake ourselves into what they want."}}$
+<p align="left"> $\tiny\color{#306aaa}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
+<p align="left"> $\tiny\color{#306aaa}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
+  <p align="left"> $\tiny\color{#306aaa}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$<br/>
+  <p align="left"> $\large\color{#50d1fe}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$<br/>
 
   </th>
   </table>
