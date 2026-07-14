@@ -25,9 +25,9 @@
   </table>
 
    <br>
-  <img align="center" src="https://64.media.tumblr.com/f0a589f832657fed198494bde8a2edf7/62e83852f3416cdd-14/s75x75_c1/b04f80189b9db02c247e659bb78b7370bc025879.gifv" width="40">
-  <img align="center" src="https://github.com/user-attachments/assets/e42f174c-cdfd-4887-932b-be3d63a1584a" height="190px" title="art by jamjoob">
-  <img align="center" src="https://64.media.tumblr.com/f5c1211e3ab41bdd2f6b2623be1b3080/7068c91b5da72c2d-96/s75x75_c1/ceb06fc7493bdf27c649de8b129daba8c7c7f1c7.gifv" width="40">
+  <img align="center" src="https://64.media.tumblr.com/f6a58dbd4c318d923700135f0ef94003/cae2d027b3f909d8-e6/s75x75_c1/f7a63a038797d19d0b7076cd7eb8ebbc3da219e3.gifv" width="40">
+  <img align="center" height="190" alt="jinx sticker" src="https://github.com/user-attachments/assets/76abddbf-2c72-413c-b99a-447901a4ed27" />
+  <img align="center" src="https://64.media.tumblr.com/28d030a6beec7e0d933407bf8cb4cd80/cae2d027b3f909d8-74/s75x75_c1/f0196dd4c4a5ee8425e913e67eda547baca61185.gifv" width="40">
 
   <br>  
       <br>
