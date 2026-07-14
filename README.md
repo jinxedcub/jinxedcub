@@ -18,7 +18,7 @@
 <p align="left"> $\tiny\color{#7558b2}{\textsf{\qquad\qquad\qquad\qquad"I really need a new gun. But don't tell my other guns."}}$
 <p align="left"> $\tiny\color{#8f45b6}{\textsf{\qquad\qquad\qquad\qquad\qquad"Guns don't kill people. I mean, until you shoot 'em. Then they kill everything!"}}$ 
 <p align="left"> $\tiny\color{#9e3cb3}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
-  <p align="left"> $\tiny\color{#a935b2}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$<br/>
+  <p align="left"> $\tiny\color{#a935b2}{\textsf{\qquad\qquad playlist linked has good rock music (and others) if interested winky face}}$<br/>
   <p align="left"> $\large\color{#fc02fd}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$<br/>
 
   </th>
