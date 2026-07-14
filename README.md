@@ -59,9 +59,9 @@
  <img align="left" src="https://64.media.tumblr.com/d033f83515d990e9b98904ea23c4c6ec/f10cd3d54f6a93f2-fa/s100x200/a423522e693f08f2bbb7d70d0d72499a5eb659eb.gifv" width="100">
   <img align="left" src="https://64.media.tumblr.com/6d741686758e1902885a388c5eb18ddc/dc5bfc7164fe1783-ba/s100x200/19eff24d99c112e1603e5aced88155dc86b2152f.gifv" width="100">
     <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680c1ddc-e938-4124-9023-574a90d674b4/di0lhm7-14a30d6f-6b05-4974-8a40-5d536e46f226.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82ODBjMWRkYy1lOTM4LTQxMjQtOTAyMy01NzRhOTBkNjc0YjQvZGkwbGhtNy0xNGEzMGQ2Zi02YjA1LTQ5NzQtOGE0MC01ZDUzNmU0NmYyMjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.peo1E6o00FbHPG4Kh4jAU4rhuUDGPm3TrBqXlpRDHEs" width="100">
-    <br>
+    <br><br>
 
-  <br><br> 
+  <br>
 <img width="335" height="145" alt="Screenshot 2026-07-14 163014" src="https://github.com/user-attachments/assets/4e6ee938-8f4e-4833-8f59-4aa00f4d0046" />
 
 
