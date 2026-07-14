@@ -61,7 +61,7 @@
     <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680c1ddc-e938-4124-9023-574a90d674b4/di0lhm7-14a30d6f-6b05-4974-8a40-5d536e46f226.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82ODBjMWRkYy1lOTM4LTQxMjQtOTAyMy01NzRhOTBkNjc0YjQvZGkwbGhtNy0xNGEzMGQ2Zi02YjA1LTQ5NzQtOGE0MC01ZDUzNmU0NmYyMjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.peo1E6o00FbHPG4Kh4jAU4rhuUDGPm3TrBqXlpRDHEs" width="100">
 
   <br>  
-<img width="300" height="170" alt="ivy in the rain" src="https://github.com/user-attachments/assets/0237cfdf-efb2-45ce-b72f-ac518c445f0b" title="all i need is perfection." />
+<img width="300" height="170" alt="ivy in the rain" src="https://i.pinimg.com/originals/97/dd/40/97dd40471d9850610d4138a5cb2c03c4.gif" title="all i need is perfection." />
 
   <br>  
 <img width="150" height="20" src="https://64.media.tumblr.com/7ccffd024669d139f1d920b389672384/69c91a2a7c2dd12a-f0/s250x400/e3a6d94a6ab9892d35487f0bc3739014bf23a07a.gifv">
