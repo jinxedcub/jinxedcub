@@ -2,7 +2,8 @@
 <div align="center">
 
 
-<img width="788" height="292" alt="Screenshot 2026-07-14 162412" src="https://github.com/user-attachments/assets/e6eca0ab-3325-4a6b-b9bd-f462ced96acf" />
+<img width="736" height="280" alt="jinx illustration by 何李" title="jinx illustration by 何李" src="https://github.com/user-attachments/assets/5f5671e7-e408-40a0-903c-838cef5e9e29" />
+
 
 
   <table border="0" align="left">
