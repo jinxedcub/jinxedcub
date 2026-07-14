@@ -49,9 +49,9 @@
            <br>  
       <a href="https://www.last.fm/user/losingmarbles"><img src="https://lastfm-recently-played.vercel.app/api?user=losingmarbles&show_user=header&footer_style=wave&count=1&width=350&loved=true&loved_style=2&header_style=none&bg_color=5c69b1" align="center" alt="last listened to"></a><br/>
 <br>  
-<img src="https://64.media.tumblr.com/67765b96c600a6a0c235d2de3d427645/f11ec5bea4363265-ac/s540x810/ad43a0fb4b340b2224f826599e0ef6379b76dee6.pnj" height="40" width="400"><br/>
+<img src="https://64.media.tumblr.com/04514001f139c9d737dfbbb94ec9647c/f870121caaa2c60a-7b/s2048x3072/e2c5761f385157f6b0c060cc1dc6b3f1a0946a92.pnj" height="50" width="450"><br/>
 <br>  
-<img src="https://readme-jokes.vercel.app/api?theme=merko&bgcolor=%23679267&qColor=%2318453B&aColor=%23679267&borderColor=%23043927" align="center" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=merko&bgcolor=%235a71b4&qColor=%235a71b4&aColor=%23a635a6&borderColor=%23fd02fd" align="center" alt="Jokes Card" />
   </th>
   </table>
 
