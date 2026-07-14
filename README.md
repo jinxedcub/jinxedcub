@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img width="740" height="390" alt="jinx illustration by 何李" src="https://github.com/user-attachments/assets/28ff0fcb-f181-4b31-b52e-99d43a6b29f6" />
+
+<img width="788" height="292" alt="Screenshot 2026-07-14 162412" src="https://github.com/user-attachments/assets/e6eca0ab-3325-4a6b-b9bd-f462ced96acf" />
 
 
   <table border="0" align="left">
