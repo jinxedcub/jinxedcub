@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img width="736" height="280" alt="jinx illustration by 何李" title="jinx illustration by 何李" src="https://github.com/user-attachments/assets/5f5671e7-e408-40a0-903c-838cef5e9e29" />
+<img width="736" height="280" alt="jinx illustration by @ThatwasforZED on twitter" title="jinx illustration by @ThatwasforZED on twitter" src="https://i.pinimg.com/1200x/6c/ae/39/6cae3980ee417f75502750b91db6ab54.jpg" />
 
 
 
@@ -10,16 +10,16 @@
     <tr align="center"></tr>
       <th>
            <br>  
-      <p align="center"> $\normalsize\color{#3eb9f2}{\textsf{hi, i'm bear. she/he. certified lesbian.\qquad\qquad\qquad}}$
-<p align="center"> $\normalsize\color{#3eb9f2}{\textsf{my stances are anti-harassment and anti-contact.\qquad\qquad}}$<br/>
-<p align="center"> $\small\color{#3eb9f2}{\textsf{dni radqueers, transIDs...}}$<br/>
-<p align="left"> $\tiny\color{#369de0}{\textsf{\qquad\qquad\qquad\qquad\qquad i could be considered a yume. < harley, ivy, jinx 3}}$<br/>
-<p align="left"> $\tiny\color{#369de0}{\textsf{"I have had it with mankind... They clip, They prune."}}$
-<p align="left"> $\tiny\color{#369de0}{\textsf{\qquad\qquad\qquad\qquad"They make us remake ourselves into what they want."}}$
-<p align="left"> $\tiny\color{#306aaa}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
-<p align="left"> $\tiny\color{#306aaa}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
-  <p align="left"> $\tiny\color{#306aaa}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$<br/>
-  <p align="left"> $\large\color{#50d1fe}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$<br/>
+      <p align="center"> $\normalsize\color{#5b83e3}{\textsf{hi, i'm bear. she/he. certified lesbian.\qquad\qquad\qquad}}$
+<p align="center"> $\normalsize\color{#607ec4}{\textsf{my stances are anti-harassment and anti-contact.\qquad\qquad}}$<br/>
+<p align="center"> $\small\color{#6780bc}{\textsf{dni radqueers, transIDs...}}$<br/>
+<p align="left"> $\tiny\color{#6078b6}{\textsf{\qquad\qquad\qquad\qquad\qquad i could be considered a yume. < harley, ivy, jinx 3}}$<br/>
+<p align="left"> $\tiny\color{#5c69b1}{\textsf{"I have had it with mankind... They clip, They prune."}}$
+<p align="left"> $\tiny\color{#7558b2}{\textsf{\qquad\qquad\qquad\qquad"They make us remake ourselves into what they want."}}$
+<p align="left"> $\tiny\color{#8f45b6}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
+<p align="left"> $\tiny\color{#9e3cb3}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
+  <p align="left"> $\tiny\color{#a935b2}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$<br/>
+  <p align="left"> $\large\color{#fc02fd}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$<br/>
 
   </th>
   </table>
