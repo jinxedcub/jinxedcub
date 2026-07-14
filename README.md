@@ -35,7 +35,7 @@
 <br>
   <br>
 
-<img src="https://komarev.com/ghpvc/?username=jinxecub&color=8FBC8B&style=for-the-badge&label=Flowers+Bloomed:" title="let mother nature care for you...">
+<img src="https://komarev.com/ghpvc/?username=jinxecub&color=9e3cb3&style=for-the-badge&label=bombs+EXPLODED:" title="let mother nature care for you...">
 
  <br>
  <br>
@@ -56,9 +56,9 @@
   </table>
 
   <br>
-  <img align="left" src="https://64.media.tumblr.com/510ad30947adb332e63a24dbf4ef96c7/8ef2f4d65b624802-08/s100x200/3ae5b6b7144daac705fc9506454a64e17005a01e.pnj" width="100">
-  <img align="left" src="https://64.media.tumblr.com/d2176fdd65ed8a2e1f2e66da29933cf3/8ef2f4d65b624802-3c/s100x200/1bf04f6264efa3ff3d59d066886ec315154a9ef0.pnj" width="100">
-    <img align="left" src="https://64.media.tumblr.com/e9bec28557565d011fbeb52d4a749e17/b4963413b3d05ae7-9f/s100x200/e85cd5b4a6fa38f9f20de1d99c00e614eb1f6eaa.pnj" width="100">
+  <img align="left" src="https://64.media.tumblr.com/d033f83515d990e9b98904ea23c4c6ec/f10cd3d54f6a93f2-fa/s100x200/a423522e693f08f2bbb7d70d0d72499a5eb659eb.gifv" width="100">
+  <img align="left" src="https://64.media.tumblr.com/6d741686758e1902885a388c5eb18ddc/dc5bfc7164fe1783-ba/s100x200/19eff24d99c112e1603e5aced88155dc86b2152f.gifv" width="100">
+    <img align="left" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/680c1ddc-e938-4124-9023-574a90d674b4/di0lhm7-14a30d6f-6b05-4974-8a40-5d536e46f226.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi82ODBjMWRkYy1lOTM4LTQxMjQtOTAyMy01NzRhOTBkNjc0YjQvZGkwbGhtNy0xNGEzMGQ2Zi02YjA1LTQ5NzQtOGE0MC01ZDUzNmU0NmYyMjYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.peo1E6o00FbHPG4Kh4jAU4rhuUDGPm3TrBqXlpRDHEs" width="100">
 
   <br>  
 <img width="300" height="170" alt="ivy in the rain" src="https://github.com/user-attachments/assets/0237cfdf-efb2-45ce-b72f-ac518c445f0b" title="all i need is perfection." />
