@@ -51,7 +51,7 @@
 <br>  
 <img src="https://64.media.tumblr.com/59a1685fefa418742e122e7151e1f8be/6c010a2225957f8c-a9/s400x600/aaee522904e2ba44f863371c924a11dc51aa319d.gifv" height="50" width="450"><br/>
 <br>  
-<img src="https://readme-jokes.vercel.app/api?theme=gradientBlue&bgcolor=%235a71b4&qColor=%2321bfff&aColor=%23ff03fe&borderColor=%23fd02fd" align="center" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=bgcolor=%235a71b4&qColor=%2321bfff&aColor=%23ff03fe&borderColor=%23fd02fd" align="center" alt="Jokes Card" />
   </th>
   </table>
 
