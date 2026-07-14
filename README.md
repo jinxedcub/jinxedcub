@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img width="640" height="320" alt="drawing of zoey done by me" src="https://github.com/user-attachments/assets/0a6db861-0e06-47d8-8afa-71e3eac14c38" />
-
+<img width="740" height="390" alt="jinx illustration by 何李" src="https://github.com/user-attachments/assets/28ff0fcb-f181-4b31-b52e-99d43a6b29f6" />
 
 
   <table border="0" align="left">
