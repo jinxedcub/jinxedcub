@@ -14,9 +14,9 @@
 <p align="center"> $\normalsize\color{#607ec4}{\textsf{my stances are anti-harassment and anti-contact.\qquad\qquad}}$<br/>
 <p align="center"> $\small\color{#6780bc}{\textsf{dni radqueers, transIDs...}}$<br/>
 <p align="left"> $\tiny\color{#6078b6}{\textsf{\qquad\qquad\qquad\qquad\qquad i could be considered a yume. < harley, ivy, jinx 3}}$<br/>
-<p align="left"> $\tiny\color{#5c69b1}{\textsf{"I have had it with mankind... They clip, They prune."}}$
-<p align="left"> $\tiny\color{#7558b2}{\textsf{\qquad\qquad\qquad\qquad"They make us remake ourselves into what they want."}}$
-<p align="left"> $\tiny\color{#8f45b6}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad"A Madonna. A whore. A partner. A foe and we do it because we need."}}$ 
+<p align="left"> $\tiny\color{#5c69b1}{\textsf{"I'm always with you, even when we're worlds apart."}}$
+<p align="left"> $\tiny\color{#7558b2}{\textsf{\qquad\qquad\qquad\qquad"I really need a new gun. But don't tell my other guns."}}$
+<p align="left"> $\tiny\color{#8f45b6}{\textsf{\qquad\qquad\qquad\qquad\qquad"Guns don't kill people. I mean, until you shoot 'em. Then they kill everything!"}}$ 
 <p align="left"> $\tiny\color{#9e3cb3}{\textsf{\qquad check strawpage for more on me.. (and links to socials.)}}$
   <p align="left"> $\tiny\color{#a935b2}{\textsf{\qquad\qquad\qquad\qquad\qquad hashtag kinda friendless}}$<br/>
   <p align="left"> $\large\color{#fc02fd}{\textsf{\qquad\qquad\qquad\qquad\qquad\qquad\qquad . ݁₊ ⊹ . ݁˖ . ݁ ᨒ↟ 𖠰}}$<br/>
@@ -31,7 +31,7 @@
 
   <br>  
       <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=22&duration=3000&pause=400&center=true&multiline=true&repeat=false&width=350&height=120&lines=Don't+get+any+big+ideas%2C;they're+not+gonna+happen." alt="Typing SVG lyrics" title="nude by radiohead" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montenegrin+Gothic+One&size=22&duration=3000&pause=400&color=5B83E3&center=true&multiline=true&repeat=false&width=350&height=120&lines=Don't+get+any+big+ideas%2C;they're+not+gonna+happen." alt="Typing SVG" title="nude by radiohead" /></a>
 <br>
   <br>
 
